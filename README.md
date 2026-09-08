@@ -35,7 +35,7 @@ The data flows through the warehouse in a series of stages, from the source syst
 
 The data warehouse follows a three layered architecture to separate raw data ingestion, data transformation, and business-level analytics.
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/data_architecture.drawio.png)
 
 ### Bronze Layer
 
