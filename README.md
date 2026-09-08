@@ -362,21 +362,13 @@ Before running the project, install:
 ### Setup
 
 1. Clone this repository.
-
 2. Open the SQL scripts using SQL Server Management Studio.
-
 3. Configure the SQL Server database according to the project scripts.
-
 4. Load the source CSV files from the `datasets/` directory.
-
 5. Execute the Bronze-layer scripts to ingest the raw data.
-
 6. Execute the Silver-layer scripts to clean and transform the data.
-
 7. Execute the Gold-layer scripts to create the analytical model.
-
 8. Run the validation scripts in the `tests/` directory.
-
 9. Execute the analytical queries against the Gold layer.
 
 ---
