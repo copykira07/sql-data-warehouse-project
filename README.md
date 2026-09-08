@@ -401,38 +401,3 @@ Please refer to the original course and project materials from **Data with Baraa
 This repository represents my hands-on practice in **SQL, data warehousing, ETL, data modeling, and data analytics**.
 
 Rather than focusing only on writing individual SQL queries, this project demonstrates how SQL can be used as part of a complete data pipeline — starting with raw operational data and ending with a structured analytical data warehouse.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Data Warehouse & Analytics Project
-
-A SQL Server-based data warehouse project built to transform raw sales data from ERP and CRM systems into a structured, analytics-ready data model.
-
-This project covers the complete data warehousing workflow — from loading raw CSV files and performing data cleansing to integrating the data into a dimensional model and generating analytical insights using SQL.
-
-> **Project Reference:** This project was developed as a hands-on learning project based on the SQL Data Warehouse Project taught by **Data with Baraa**. The implementation and documentation in this repository are my own work and learning experience.
-
----
-## About This Project
-
-This repository represents my hands-on practice in **SQL, data warehousing, ETL, data modeling, and data analytics**.
-
-Rather than focusing only on writing individual SQL queries, this project demonstrates how SQL can be used as part of a complete data pipeline — starting with raw operational data and ending with a structured analytical data warehouse.
